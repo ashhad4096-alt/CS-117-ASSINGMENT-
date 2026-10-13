@@ -1,2 +1,5 @@
 # CS-117-ASSINGMENT-
 My first repository on Github
+NAME : ASHHAD AHMED JANJUA
+CMS ID : 594099
+DEGREE : EE-48-B
